@@ -1,0 +1,75 @@
+.syg__box, .syg__box * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.syg__box__html {
+    display: none;
+}
+
+.syg__box {
+    display: inline-block;
+    position: relative;
+    /*overflow: hidden;*/
+    max-width: 100%;
+    min-width: 18em;
+    height: auto;
+    min-height: 10em;
+    text-align: center;
+    margin-top: 2em;
+
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+.syg__box img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+}
+
+.syg__box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+
+    background-image: inherit;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    filter: grayscale(100%);
+}
+
+.syg__box .syg__box__text {
+    position: absolute;
+    height: 2em;
+    width: 100%;
+    left: 0;
+    top: -2em;
+    text-align: center;
+    z-index: 10;
+    max-height: 5em;
+    overflow: auto;
+    margin: 0;
+}
+
+.syg__box__text__btn {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    padding: .8em .5em;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+}

@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple YouTube GDPR\n"
+"POT-Creation-Date: 2019-09-15 13:03+0300\n"
+"PO-Revision-Date: 2019-09-15 14:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simple-youtube-gdpr.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: public/class-simple-youtube-gdpr-public.php:247
+#: public/class-simple-youtube-gdpr-public.php:256
+msgid "https://policies.google.com/privacy?hl=en"
+msgstr "https://policies.google.com/privacy?hl=de"
+
+#: public/class-simple-youtube-gdpr-public.php:258
+msgid "https://vimeo.com/privacy"
+msgstr "https://vimeo.com/privacy"
+
+#: public/class-simple-youtube-gdpr-public.php:260
+msgid "https://www.flickr.com/help/privacy"
+msgstr "https://www.flickr.com/help/privacy"
+
+#: public/class-simple-youtube-gdpr-public.php:262
+msgid "https://issuu.com/legal/privacy"
+msgstr "https://issuu.com/legal/privacy"
+
+#: public/class-simple-youtube-gdpr-public.php:264
+msgid "https://www.instagram.com/legal/privacy/"
+msgstr "https://www.instagram.com/legal/privacy/"
+
+#: public/class-simple-youtube-gdpr-public.php:266
+msgid ""
+"https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy"
+msgstr ""
+"https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy"
+
+#: public/class-simple-youtube-gdpr-public.php:268
+msgid "https://www.dailymotion.com/legal/privacy?localization=en"
+msgstr "https://www.dailymotion.com/legal/privacy?localization=ge"
+
+#: public/class-simple-youtube-gdpr-public.php:270
+msgid "https://twitter.com/en/privacy"
+msgstr "https://twitter.com/ge/privacy"
+
+#: public/class-simple-youtube-gdpr-public.php:276
+#: public/class-simple-youtube-gdpr-public.php:278
+#, php-format
+msgid "Show %s content: %s"
+msgstr "%s Inhalt zeigen: %s"
+
+#: public/class-simple-youtube-gdpr-public.php:279
+#, php-format
+msgid "Show %s content"
+msgstr "%s Inhalt zeigen"
+
+#: public/class-simple-youtube-gdpr-public.php:291
+#, php-format
+msgid ""
+"By showing the %s content you accept <a href=\" % s\" target=\"_blank\" rel="
+"\"nofollow noreferrer noopener\" referrerpolicy=\"no - referrer\" title=\" "
+"% s\">its privacy policy</a>."
+msgstr ""
+"Indem du den %s-Inhalt zeigst, akzeptieren Sie <a href=\" % s\" target="
+"\"_blank\" rel=\"nofollow noreferrer noopener\" referrerpolicy=\"no - "
+"referrer\" title=\" % s\">die Datenschutzbestimmungen</a>."
+
+#: public/class-simple-youtube-gdpr-public.php:295
+#, php-format
+msgid "%s Privacy Policy page (opens in a new window)"
+msgstr "%s Datenschutzerklärung (öffnet in einem neuen Fenster)"
+
+#: public/class-simple-youtube-gdpr-public.php:349
+msgid "Upgrade plan"
+msgstr "Upgrade plan"
+
+#: public/class-simple-youtube-gdpr-public.php:350
+msgid "Block Vimeo and more!"
+msgstr "Block Vimeo und mehr!"
+
+#: public/class-simple-youtube-gdpr-public.php:369
+msgid "Payment in RUB - Russian Rubles"
+msgstr "Zahlung in RUB - Russische Rubel"
+
+#: public/class-simple-youtube-gdpr-public.php:370
+msgid "Donate"
+msgstr "Spenden"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple YouTube GDPR"
+msgstr "WordPress YouTube, Vimeo und mehr Elemente Security Plugin (GDPR)"
+
+#. Plugin URI of the plugin/theme
+msgid "https://alexeyvolkov.com/blog/simple-youtube-gdpr"
+msgstr "https://alexeyvolkov.com/blog/simple-youtube-gdpr"
+
+#. Description of the plugin/theme
+msgid "Integrate YouTube and Vimeo videos securely!"
+msgstr "Integrieren Sie YouTube- und Vimeo-Videos sicher!"
+
+#. Author of the plugin/theme
+msgid "Alexey Volkov"
+msgstr "Alexey Volkov"
+
+#. Author URI of the plugin/theme
+msgid "https://alexeyvolkov.com/"
+msgstr "https://alexeyvolkov.com/"
+
+#~ msgid "Load element"
+#~ msgstr "Element anzeigen"
+
+#~ msgid "Read Privacy Policy"
+#~ msgstr "Lesen die Datenschutzbestimmungen"
+
+#~ msgid "Click to Play Video"
+#~ msgstr "Anklicken um abzuspielen"
+
+#~ msgid "YouTube Video Thumbnail"
+#~ msgstr "YouTube Video Miniaturansicht"
+
+#~ msgid "By loading the video, you agree to YouTube's privacy policy."
+#~ msgstr ""
+#~ "Durch das Laden des Videos stimmst du den Datenschutzbestimmungen von "
+#~ "YouTube zu."
+
+#~ msgid "Play video"
+#~ msgstr "Video abspielen"
+
+#~ msgid "By loading the video, you agree to Vimeo's privacy policy."
+#~ msgstr ""
+#~ "Durch das Laden des Videos stimmen Sie den Datenschutzbestimmungen von "
+#~ "Vimeo zu."
+
+#~ msgid "By loading the issuu element, you agree to its privacy policy."
+#~ msgstr ""
+#~ "Durch das Laden des issuu-Elements stimmen Sie dessen "
+#~ "Datenschutzbestimmungen zu."
+
+#~ msgid "Learn more"
+#~ msgstr "Google-Datenschutzerklärung"
+
+#~ msgid "Get Vimeo Blocker!"
+#~ msgstr "Holen Sie sich Vimeo Blocker!"
+
+#~ msgid ""
+#~ "Replaces all YouTube video iframes with a local image and loads a no "
+#~ "cookie version of video."
+#~ msgstr ""
+#~ "Ersetzt alle YouTube-Video-Iframes durch ein lokales Bild und lädt eine "
+#~ "No-Cookie-Version des Videos."

@@ -1,0 +1,23 @@
+#: /public/class-simple-youtube-gdpr-public.php:200
+msgid "Click to Play Video"
+msgstr ""
+
+#: /public/class-simple-youtube-gdpr-public.php:201
+msgid "YouTube Video Thumbnail"
+msgstr ""
+
+#: /public/class-simple-youtube-gdpr-public.php:202
+msgid "By loading the video, you agree to YouTube's privacy policy."
+msgstr ""
+
+#: /public/class-simple-youtube-gdpr-public.php:203
+msgid "https://policies.google.com/privacy?hl=en&amp;gl=en"
+msgstr ""
+
+#: /public/class-simple-youtube-gdpr-public.php:203
+msgid "Learn more"
+msgstr ""
+
+#: /public/class-simple-youtube-gdpr-public.php:204
+msgid "Load video"
+msgstr ""
